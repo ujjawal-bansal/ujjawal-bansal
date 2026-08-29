@@ -92,13 +92,15 @@ A personal finance tracker covering transactions, budgets, and spending analytic
 
 ## GitHub Stats
 
+<!-- Replace YOUR-PROJECT below with your own Vercel deployment domain -->
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ujjawal-bansal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-bansal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://YOUR-PROJECT.vercel.app/api?username=ujjawal-bansal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=ujjawal-bansal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
 
 <p align="center">
-  Open to full-time software engineering roles and interesting collaborations.
+  Open to internships, full-time software engineering roles and interesting collaborations.
 </p>
