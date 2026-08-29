@@ -1,14 +1,13 @@
 <h1 align="center">Ujjawal Bansal</h1>
 
 <p align="center">
-  Full-stack developer · Final-year CS student at ABES Engineering College, Ghaziabad
+  Full-stack developer · CSE student at ABES Engineering College, Ghaziabad
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjawalbansal">LinkedIn</a> ·
   <a href="https://x.com/Ujjawal__Bansal">X</a> ·
-  <a href="mailto:ujjawalbansal63@gmail.com">Email</a> ·
-  <a href="https://github.com/ujjawal-bansal">GitHub</a>
+  <a href="mailto:ujjawalbansal63@gmail.com">Email</a>
 </p>
 
 ---
@@ -17,7 +16,7 @@
 
 I build software that ends up in front of real users. Right now that means **QueueLite**, an OPD queue management system running in production at a clinic in Moradabad and handling 30–40 patients a day, and **Lexora AI**, a multi-stage LLM pipeline for essay grading and feedback.
 
-- Final-year Computer Science student, graduating 2026
+- Computer Science and Engineering student, graduating in 2027
 - Core Organizer of **Stellaris 2026**, a pan-India hackathon with 1,600+ registrations, a $19,000 prize pool, and GitHub as gold sponsor
 - Content Lead at the GeeksforGeeks ABES Student Chapter
 - AWS Academy Cloud Foundations certified
